@@ -1,6 +1,7 @@
 {
   "extends": "airbnb-base",
   "rules": {
+    // Override airbnb style guide on only having production dependencies
     "import/no-extraneous-dependencies": "off"
   },
   "env": {
